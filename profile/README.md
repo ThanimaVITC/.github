@@ -1,12 +1,17 @@
-## Hi there 👋
+# Thanima Malayalam Literary Association, VIT Chennai
 
-<!--
+## Overview
+Thanima is the official Malayali Literary Association of VIT Chennai, Thanima strives to nurture a love for language, literature, and traditions among the campus community.
 
-**Here are some ideas to get you started:**
+## Mission
+To foster appreciation for Malayalam literature and arts, encourage creative expression, and preserve Kerala’s vibrant heritage within the university.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Activities
+- Sargam, thanima biggest event for celebrating onam every year
+- Literary events celebrating Malayalam poetry, prose, and storytelling
+- Competitions like slogan making and craft workshops to promote creative skills
+- Cultural evenings welcoming new students and building a sense of connection
+- Opportunities for all students to engage in Kerala’s literary and artistic traditions
+
+## Join Us!
+Be part of Thanima to celebrate the beauty and diversity of Malayalam language and heritage at VIT Chennai.
